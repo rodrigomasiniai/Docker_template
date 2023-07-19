@@ -1,4 +1,4 @@
-# Docker_template
+# Docker_template: A multistage build 
 
 |> Order your layers from least likely to change to most likely to change for fast building times
 
